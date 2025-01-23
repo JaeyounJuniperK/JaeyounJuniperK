@@ -1,4 +1,4 @@
-# Data Science Portfolio - Jaeyoun Juniper Kim
+# Data Science Portfolio - Jaeyoun "Juniper" Kim
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [jkim88@nd.edu](jkim88@nd.edu)
@@ -8,6 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 I am an undergraduate student at the University of Notre Dame studying Psychology and Global Affairs with a minor in Data Science. 
 
 ## Projects
+Currently under construction. Current iteration inspired by @archd3sai. 
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
