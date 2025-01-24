@@ -13,12 +13,14 @@ Projects under-construction. More to come soon. Stay tuned.
 
 ## Micro Projects
 
-- ### Challenges
-
-- ### Ranking Algorithms
+## Relevant Coursework
+- Unlocking Social Puzzles with R
+- Principles of Computing
+- Statistics for Behavioral Sciences
+- Simulating Politics & Global Affairs
+- Generative AI in the Wild
 
 ## Core Competencies
-
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Machine Learning, Statistics
+- **Languages**: Python, R, NetLogo
+- **Tools**: MS Excel
