@@ -10,7 +10,7 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 
 ## Goals 
 - _Data Storytelling_: Improve narrative and affective appeal regarding data visualizations and related presentations. 
--_ Programming & Coding_: Enhancing current coding competencies and exploring unknown programming languages.
+- _Programming & Coding_: Enhancing current coding competencies and exploring unknown programming languages.
 - _Machine Learning_: Becoming introduced to basic machine learning principles. 
 - _Data Ethics_: Applying new skills with care for its user and working to mitigate data biases. 
 
