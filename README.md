@@ -1,10 +1,11 @@
-# Data Science Portfolio - Jaeyoun "Juniper" Kim <img width="257" alt="Screenshot 2025-02-09 at 7 48 23 AM" src="https://github.com/user-attachments/assets/31fa35f6-29b6-4e9a-a359-50ce272fe6ea" />
+# Data Science Portfolio - Jaeyoun "Juniper" Kim 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic and self-learning purposes. This portfolio is a product of the Introductiom to Data Science course from the University of Notre Dame but will be continually updated with relevant projects and works related to my developing skills in data science and visualization. 
 
 
 # Contact Information
 - **Email**: [jkim88@nd.edu](jkim88@nd.edu)
 - **LinkedIn**: [linkedin.com/jaeyoun-juniper-kim](https://www.linkedin.com/in/jaeyoun-juniper-kim-0550252b2/)
+<img width="257" alt="Screenshot 2025-02-09 at 7 48 23 AM" src="https://github.com/user-attachments/assets/31fa35f6-29b6-4e9a-a359-50ce272fe6ea" />
 
 ## Background Information
 I am currently a senior at the University of Notre Dame studying Psychology and Global Affairs with a minor in Data Science. My academic and professional interests pertain to understanding people and their needs and improving the institutions that serve them (from a local to global scale). Following graduation, I will be working as a Government Consultant continuing to focus on and develop my skills in serving people and their communities. 
