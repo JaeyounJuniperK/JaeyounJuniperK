@@ -13,6 +13,7 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 ## Current Projects
 Projects under-construction. More to come soon. Stay tuned. 
 - _Beijing 2008 Olympic Medalist Tidy Data_: The dataset used in this project is the 2008 Beijing Olympics Medalists Dataset. It contains information about athletes, sports categories, gender, and medals awarded. The data underwent cleaning and transformation to ensure compliance with tidy data principles.
+![image](https://github.com/user-attachments/assets/f494471e-a24b-4c82-a06f-af0ea32c4bbf)
 - _Palmer's Penguins Streamlit App_: The goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the Palmer's Penguins dataset, followed by the development of an interactive Streamlit app for data visualization and analysis.
 - _Visitors Sentiment Analysis on University Reviews_: Scrape visitor reviews from Google Maps of the top 20 most relevant search results. Apply basic natural language processing (NLP) techniques, or sentiment analysis, and determine basic sentiment of reviews based on prestige of the university. (Programming Language: R) 
 
