@@ -15,7 +15,8 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 - **Beijing 2008 Olympic Medalist Tidy Data:** The dataset used in this project is the 2008 Beijing Olympics Medalists Dataset. It contains information about athletes, sports categories, gender, and medals awarded. The data underwent cleaning and transformation to ensure compliance with tidy data principles.
 ![image](https://github.com/user-attachments/assets/f494471e-a24b-4c82-a06f-af0ea32c4bbf)
 - **Supervised Machine Learning App:** This interactive app, built with Streamlit, enables users to explore various machine learning models on different datasets. The app allows users to upload their own dataset or choose from popular sample datasets like Iris (for classification) and Boston (for regression).
-<img width="1439" alt="Screenshot 2025-05-06 at 4 12 10 PM" src="https://github.com/user-attachments/assets/1cc01598-4281-41f3-8c7c-1958b22b308d" />
+<img width="1439" alt="Screenshot 2025-05-06 at 4 12 10 PM" src="https://github.com/user-attachments/assets/1cc01598-4281-41f3-8c7c-1958b22b308d"/>
+
 - **Unsupervised Machine Learning App:** This interactive app, built with Streamlit, provides a hands-on way to explore unsupervised machine learning using the K-Means clustering algorithm. The app allows users to upload their own dataset or select from two built-in sample datasets: Iris and Wine.
 <img width="1439" alt="Screenshot 2025-05-06 at 3 46 04 PM" src="https://github.com/user-attachments/assets/be0934dd-5ad9-4eef-af3e-ee2945cf7bff" />
 
