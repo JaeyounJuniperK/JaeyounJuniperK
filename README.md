@@ -33,6 +33,7 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 - _Data Ethics_: Applying new skills with care for its user and working to mitigate data biases. 
 
 ## Relevant Coursework
+- Introduction to Data Science
 - Unlocking Social Puzzles with R
 - Principles of Computing
 - Statistics for Behavioral Sciences
@@ -40,7 +41,7 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 - Generative AI in the Wild
 
 ## Core Competencies
-- **Methodologies**: Machine Learning, Statistics
+- **Methodologies**: Machine Learning, Statistics, Data Storytelling
 - **Languages**: Python, R, NetLogo
 - **Tools**: MS Excel
 
