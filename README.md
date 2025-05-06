@@ -12,12 +12,14 @@ I am currently a senior at the University of Notre Dame studying Psychology and 
 
 ## Current Projects
 Projects under-construction. More to come soon. Stay tuned. 
+- _Palmer's Penguins Streamlit App_: The goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the Palmer's Penguins dataset, followed by the development of an interactive Streamlit app for data visualization and analysis.
 - _Beijing 2008 Olympic Medalist Tidy Data_: The dataset used in this project is the 2008 Beijing Olympics Medalists Dataset. It contains information about athletes, sports categories, gender, and medals awarded. The data underwent cleaning and transformation to ensure compliance with tidy data principles.
 ![image](https://github.com/user-attachments/assets/f494471e-a24b-4c82-a06f-af0ea32c4bbf)
-- _Palmer's Penguins Streamlit App_: The goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the Palmer's Penguins dataset, followed by the development of an interactive Streamlit app for data visualization and analysis.
+- _Supervised Machine Learning App_: This interactive app, built with Streamlit, enables users to explore various machine learning models on different datasets. The app allows users to upload their own dataset or choose from popular sample datasets like Iris (for classification) and Boston (for regression).
+![image](<img width="1439" alt="Screenshot 2025-05-06 at 3 46 04 PM" src="https://github.com/user-attachments/assets/2d94dc61-a3c1-4501-9459-339f67766a9a" />)
 - _Visitors Sentiment Analysis on University Reviews_: Scrape visitor reviews from Google Maps of the top 20 most relevant search results. Apply basic natural language processing (NLP) techniques, or sentiment analysis, and determine basic sentiment of reviews based on prestige of the university. (Programming Language: R) 
 
-## Project Ideas: 
+## Future Project Ideas: 
 - _Overlapping Music Tastes_: Based on user's Spotify profile, this data visualization would form venn diagrams illustrating overlapping and distinct artist preferences. Applying such to several users may reveal interesting patterns demonstrating popularity of a particular artist among a group or simply give ideas for what to play in a car full of strangers.
 - _Fake News Detection_: Collect real and fake news headlines and classify them in their respective manner. Use keyword frequency analysis to identify patterns and apply a basic Naïve Bayes classifier for predictions.
 - _Predicting Virality_: Use the YouTube API and find trends in views, likes, and comments across different genres. Identify key features of videos that go viral (or receive a noteable amount of views, likes, comments, and other traffic).
